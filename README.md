@@ -5,7 +5,7 @@ A financial analysis system that combines Large Language Models (LLMs) with real
 ## Overview
 
 This project creates an AI-powered financial analysis tool that:
-- Fetches real-time market data from mutliple data sources including Yahoo Finance
+- Fetches real-time market data from mutliple data sources using Polygon.io
 - Processes and embeds financial information for efficient retrieval
 - Uses LLMs to provide intelligent analysis and insights
 - Implements RAG to ground AI responses in current market data
