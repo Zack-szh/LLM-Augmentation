@@ -1,4 +1,4 @@
-# LLM-Augmentation
+# Stock Bot | LLM-Augmentation
 
 A financial analysis system that combines Large Language Models (LLMs) with real-time market data using Retrieval Augmented Generation (RAG).
 
